@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74889143372",
+    "project_id": "teachme-98f0b",
+    "storage_bucket": "teachme-98f0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74889143372:android:bc6c3a6cbd15f939a140e9",
+        "android_client_info": {
+          "package_name": "com.example.teachme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNKpfNyFmKkIhnZmCbP2FVKPGAxbEyvh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
